@@ -10,7 +10,7 @@ This project is purely based on SQL Server, employing its innate capabilities: U
 - [Dataset Overview](#dataset-overview "Dataset Overview")
 - [Importing Dataset Into SQL Server](#Importing-Dataset-Into-SQL-Server "Importing Dataset Into SQL Server")
 - [Analysis](#Analysis "Analysis")
-
+- [Visualizations](#Visualizations-using-Tableau "Visualizations with Tableau")
 
 
 ## Dataset Overview
@@ -65,5 +65,17 @@ It is recommended that SQL Server Import and Export Data (64 bit) wizard is laun
 20. Correlation Between New Vaccinations And New Deaths For Top 5 Countries with Highest Count Of Vaccination
 21. Correlation Between New Vaccinations And Stringency Index For Top 5 Countries with Highest Count Of Vaccination
 
+## Visualizations using Tableau
 
+### Continent Wise Death Count
+![](https://github.com/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL/blob/Master/Continent%20Wise%20Death%20Count%20-%20bubble.png)
+
+### Infected Population Percentage
+![](https://github.com/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL/blob/Master/Infected%20Pop%20Perc..png)
+
+### Percentage of Population Vaccinated
+![](https://github.com/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL/blob/Master/Most%20people%20vaccinated.png)
+
+### Stringency Index vs New Cases
+![](https://github.com/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL/blob/Master/Stringency%20Index%20and%20New%20Cases.png)
 ------------
