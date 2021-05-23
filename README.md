@@ -66,6 +66,7 @@ It is recommended that SQL Server Import and Export Data (64 bit) wizard is laun
 21. Correlation Between New Vaccinations And Stringency Index For Top 5 Countries with Highest Count Of Vaccination
 
 ## Visualizations using Tableau
+[Dashboard on Tableau Public](https://public.tableau.com/profile/shine.jayakumar#!/vizhome/Covid19Visualization_16217751556240/Covid19Dashboard)
 
 ### Continent Wise Death Count
 ![](https://github.com/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL/blob/Master/Continent%20Wise%20Death%20Count%20-%20bubble.png)
