@@ -363,10 +363,10 @@ EXEC CORRELATION 'covid19timeseries', 'new_cases', 'new_vaccinations', 'Brazil',
 EXEC CORRELATION 'covid19timeseries', 'new_cases', 'new_vaccinations', 'Germany', 'new_vaccinations'
 
 -- United States: -0.583267771568118		Strong Negative Correlation
--- India: 0.501040976843601					Strong Positive Correlation
+-- India: 0.501040976843601			Strong Positive Correlation
 -- United Kingdom: -0.290257146338705		Small Negative Correlation
--- Brazil: 0.358391535662677				Medium Positive Correlaton
--- Germany: 0.396840377456182				Medium Positive Correlaton
+-- Brazil: 0.358391535662677			Medium Positive Correlaton
+-- Germany: 0.396840377456182			Medium Positive Correlaton
 
 
 
@@ -379,10 +379,10 @@ EXEC CORRELATION 'covid19timeseries', 'new_deaths', 'new_vaccinations', 'Germany
 
 
 -- United States: -0.648441168995185		Strong Negative Correlation
--- India: 0.38448386706475					Medium Positive Correlation
+-- India: 0.38448386706475			Medium Positive Correlation
 -- United Kingdom: -0.165474314697417		Small Negative Correlation
--- Brazil: 0.570892425601426				Strong Positive Correlaton
--- Germany: -0.351848722828281				Medium Negative Correlaton
+-- Brazil: 0.570892425601426			Strong Positive Correlaton
+-- Germany: -0.351848722828281			Medium Negative Correlaton
 
 
 -- Stringency Index and New Cases for Top 5 countries with most vaccinations done
@@ -399,7 +399,7 @@ EXEC CORRELATION 'covid19timeseries', 'new_cases', 'stringency_index', 'Brazil',
 EXEC CORRELATION 'covid19timeseries', 'new_cases', 'stringency_index', 'Germany', 'stringency_index'
 
 -- United States: 0.42158185958772		Medium Positive Correlation
--- India: 0.116429608970361				Small Positive Correlation
+-- India: 0.116429608970361			Small Positive Correlation
 -- United Kingdom: 0.38956987468445		Medium Positive Correlation
 -- Brazil: 0.191142054700063			Small Positive Correlaton
--- Germany: 0.4535756614707				Medium Positive Correlaton
+-- Germany: 0.4535756614707			Medium Positive Correlaton
